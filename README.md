@@ -16,9 +16,12 @@ Execute o script desejado, por exemplo:
 ```bash
 python3 visao.py
 ```
+Para o visao.py funcionar o gazebo precisa estar rodando
+
 
 e o comando para a movimentacao em 5 pontos:
 
 ```bash
 python3 waypoint.py
 ```
+
